@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Mohokare History 2025"

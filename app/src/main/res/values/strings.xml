@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mohokare History 2025</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_main">Home</string>
+    <string name="title_activity_quiz">Quiz</string>
+    <string name="title_activity_announcements">Announcements</string>
+    <string-array name="class_array">
+        <item>Class A</item>
+        <item>Class B</item>
+        <item>Class C</item>
+    </string-array>
+</resources>
